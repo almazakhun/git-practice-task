@@ -1,7 +1,7 @@
-Line 1
-Line 2
-Line 3
-Line 4
+git_1: Modified
+git_1: Modified
+git_1: Modified another
+git_1: Modified another
 Line 5
 Line 6
 Line 7
